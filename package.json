@@ -1,0 +1,16 @@
+{
+  "name": "oafbot",
+  "description": "",
+  "version": "1.0.0",
+  "main": "griffbot.js",
+  "scripts": {  
+    "start": "node griffbot.js"
+  },
+  "dependencies": {
+    "@slack/client": "^5.0.2",
+    "http": "latest",
+    "lodash": "^4.6.1",
+    "slack": "^6.1.0"
+  },
+  "license": "MIT"
+}
